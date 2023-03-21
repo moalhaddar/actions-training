@@ -20,7 +20,7 @@ jobs:
       - name: Example step name
         run: |
           echo "The demo was triggered by the event ${{ github.event_name }}"
-          echo "The name of the branch is ${{ github.ref }}
+          echo "The name of the branch is ${{ github.ref }}"
           
       - uses: actions/checkout@v3.3.0
       
