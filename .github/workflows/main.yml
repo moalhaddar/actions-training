@@ -22,7 +22,7 @@ jobs:
           echo "The demo was triggered by the event ${{ github.event_name }}"
           echo "The name of the branch is ${{ github.ref }}
           
-      - uses: actions/checkout@3.3.0
+      - uses: actions/checkout@v3.3.0
       
       - name: List files in a repository
         run: |
