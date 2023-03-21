@@ -38,7 +38,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Typescript and composite actions
 - [ ] Sharing and releasing actions
 - [ ] Using the GitHub API and Octokit
-- [ ] Job descriptions
+- [ ] Job descriptions Test
 
 ### Day 2
 - [ ] Introduction
